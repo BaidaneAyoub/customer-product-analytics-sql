@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 
 # sql-customer-product-reports
 
@@ -79,5 +79,3 @@ This project contains **SQL Server views** to generate analytical reports for:
 ## Author
 
 Created by **Ayoub Baidane**
-
-> > > > > > > 9d4643b4635bbb747e8ed7ab75d1922dd3af785c
